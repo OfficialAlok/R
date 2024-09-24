@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+=======
+.gitignore
+*R.Rproj
+>>>>>>> ce5cb5f93bb46ea61064e23b3e801b01a4f7d2bf
